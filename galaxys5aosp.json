@@ -7,8 +7,9 @@
   "paypal": "soon",
   "github": "https://github.com/FrancescoCG/CrazySuperKernel-CM",
   "features": [
-    "CM12.1 ramdisk(31-8-15)",
+    "CM12.1 ramdisk(5-9-15)",
     "Compiled with UBERTC 6.0",
+    "ofast optimize",
     "Compiled with gcc optimization flags",
     "Kernel mode Neon",
     "Init.d support",
@@ -17,8 +18,10 @@
     "Frandom support",
     "SELinux set to permissive",
     "Cpu oc up to 2,84ghz",
+    "Cpu underclock 268mhz",
     "Gpu oc up to 657mhz",
     "Gpu idle step 27mhz",
+    "Simple gpu algorithm",
     "Slimbus overclock",
     "Kcal v2 with inverted colours",
     "Intelli plug hotplug",
@@ -128,6 +131,20 @@
     }
   ],
   "downloads": [
+	{
+      "name": "CrazySuperKernel_v6",
+      "url": "http://tx1.androidfilehost.com/dl/UEYQiEIl2eWAASE7PIPWiQ/1441459174/24052804347808349/CrazySuperKernel_CM_v6_CWM.zip",
+      "md5sum": "11573121b94f4ca0c248e435522f0356",
+       "changelog": [
+	"ramdisk update 4-9",
+	"optimize -ofast",
+	"added 268mhz underclock step",
+	"added simple gpu algorithm",
+	"updated bfq v7r8",
+	"a lot under the hood improvments",
+	"some fixes",
+      ]
+    },
 	{
       "name": "CrazySuperKernel_v5",
       "url": "http://qc1.androidfilehost.com/dl/O3lVo9Jloxu0Seg4JF3RuA/1441186619/24052804347805729/CrazySuperKernel_CM_v5_CWM.zip",
