@@ -7,12 +7,13 @@
   "paypal": "soon",
   "github": "https://github.com/FrancescoCG/CrazySuperKernel-CM13-KLTE",
   "features": [
-    "CM13/RR ramdisks (24-05-16/21-05-16)",
+    "OTA Updates from Kernel Adiutor app",
+    "Anykernel2 zip For maximum compatibility with all ROMs, CrazySuperKernel uses your existing ramdisk (Do NOT flash this over other custom kernels!You should only flash CrazySuperKernel over the kernel that came with your ROM!!)",
+    "Synapse Support - Complete Kernel Control!! (need download the app from Play Store)",
     "Compiled with UBERTC 4.9 [latest update]",
-    "Franco sound control",
+    "Faux sound control",
     "Frandom support",
     "Kcal v2 with inverted colours",
-    "Cpu underclock 268mhz",
     "Intelli thermal v2",
     "Intelli plug hotplug",
     "MSM-Sleeper Hotplug",
@@ -34,6 +35,7 @@
     "Android Logging switcher",
     "Enabled All Suspend and Idle Modes",
     "Power Suspend Mode/State",
+    "Dynamic filesystem read-ahead",
     "QuickWakeUP",
     "Dynamic FSync 2.0",
     "A lot improvments",
@@ -92,6 +94,7 @@
         "row",
         "cfq",
         "bfq",
+        "tripndroid",
         "sio",
         "fiops",
         "zen",
@@ -119,23 +122,15 @@
   ],
   "downloads": [
     {
-      "name": "CrazySuperKernel_v11 CM13 OFFICIAL",
-      "url": "https://tx1.androidfilehost.com/dl/kVE3WloYDfMQ77hI1zVrzg/1464506439/24533103863143820/G900F_CrazySuperKernel_CM13_v11.zip",
-      "md5sum": "2d946ee7424aa7b14c5c671e9478b5a4",
-       "changelog": [
-       "upstream updates from cyanogenmod",
-	    "update cm ramdisks (24-05-06)",
-	    "update toolchain to UBERTC 4.9",
-      ]
-    },
-    {
-      "name": "CrazySuperKernel_v11 RR",
-      "url": "http://tx2.androidfilehost.com/dl/hH52O7HclkMTNxlWa3qfmQ/1464507203/24533103863143821/G900F_CrazySuperKernel_CM13_RR_v11.zip",
-      "md5sum": "de7044104c3c94e08d424701d5dd5dca",
+      "name": "CrazySuperKernel_v1.0",
+      "url": "https://tx1.androidfilehost.com/dl/Qsx0Lc_ZX8oEW4n2p_eb3A/1464808949/24566454284191414/CrazySuperKernel-v1.0-anykernel2.zip",
+      "md5sum": "b101fb35e6585c35ec2cbd51b0e59609",
       "changelog": [
        "upstream updates from cyanogenmod",
-	    "update rr ramdisks (21-05-16)",
-	    "update toolchain to UBERTC 4.9",
+	    "Synapse Support - Complete Kernel Control!!",
+	    "Anykernel update",
+            "removed 268mhz cpu underclock step",
+            "clean up some files ",
       ]
     }
   ]
