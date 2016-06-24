@@ -122,6 +122,15 @@
   ],
   "downloads": [
     {
+      "name": "CrazySuperKernel_v3.0",
+      "url": "https://ga1.androidfilehost.com/dl/t6kwjjWrp_32T3eM3QJUIg/1467037520/24591000424942385/CrazySuperKernel-v3.0-anykernel2.zip",
+      "md5sum": "c65ccb5d922c75d68aaa9a3449edf3aa",
+       "changelog": [
+	"upstream updates from cyanogenmod",
+	"bug fixes",
+      ]
+    },
+    {
       "name": "CrazySuperKernel_v2.0",
       "url": "https://qc3.androidfilehost.com/dl/OO7ixFA4KVnvwS8_w8DufA/1466200468/24591000424940112/CrazySuperKernel-v2.0-anykernel2.zip",
       "md5sum": "b3d7751e7509e4f11de8553ab053c0fd",
