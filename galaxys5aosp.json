@@ -5,7 +5,7 @@
   "logo": "https://raw.githubusercontent.com/FrancescoCG/KernelUpdates/master/gameraosp.png",
   "xda": "http://forum.xda-developers.com/galaxy-s5/orig-development/kernel-crazysuperkernel-v2-t3352011",
   "paypal": "soon",
-  "github": "https://github.com/FrancescoCG/CrazySuperKernel-CM13-KLTE-REBASE",
+  "github": "https://github.com/FrancescoCG/CrazySuperKernel-CM13-KLTE-NEW-REBASE",
   "features": [
     "OTA Updates from Kernel Adiutor app",
     "Anykernel2 zip For maximum compatibility with all ROMs, CrazySuperKernel uses your existing ramdisk (Do NOT flash this over other custom kernels!You should only flash CrazySuperKernel over the kernel that came with your ROM!!)",
@@ -121,6 +121,16 @@
     }
   ],
   "downloads": [
+    {
+      "name": "CrazySuperKernel_v4.0",
+      "url": "http://qc4.androidfilehost.com/dl/zqYqh1FRawvgdcNVmluktQ/1468238118/24591000424945151/CrazySuperKernel-v4.0-anykernel2.zip",
+      "md5sum": "2251e1c62ff5fdb7bdb3076868179458",
+       "changelog": [
+	"upstream updates from cyanogenmod",
+	"many bug fixes",
+	"Anykernel update",
+      ]
+    },
     {
       "name": "CrazySuperKernel_v3.0",
       "url": "https://ga1.androidfilehost.com/dl/t6kwjjWrp_32T3eM3QJUIg/1467037520/24591000424942385/CrazySuperKernel-v3.0-anykernel2.zip",
