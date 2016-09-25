@@ -10,7 +10,7 @@
     "OTA Updates from Kernel Adiutor app",
     "Anykernel2 zip For maximum compatibility with all ROMs, CrazySuperKernel uses your existing ramdisk (Do NOT flash this over other custom kernels!You should only flash CrazySuperKernel over the kernel that came with your ROM!!)",
     "Synapse Support - Complete Kernel Control!! (need instal Crazy-UKM and download the app from Play Store)",
-    "Compiled with UBERTC 4.9 [latest update]",
+    "Compiled with DF 4.9 Toolchain [latest update]",
     "Faux sound control",
     "Frandom support",
     "Kcal v2 with inverted colours",
@@ -121,6 +121,16 @@
     }
   ],
   "downloads": [
+    {
+      "name": "CrazySuperKernel_v8.0",
+      "url": "http://qc4.androidfilehost.com/dl/UuVr0SiEllPCZGca9M6yjQ/1475061766/385026487222272894/CrazySuperKernel-v8.0-anykernel2.zip",
+      "md5sum": "d206cd1c6231f9315396dbfc574745c9",
+       "changelog": [
+	"upstream updates from cyanogenmod",
+	"Anykernel update",
+	"changed to DF 4.9 Toolchain ",
+      ]
+    },
     {
       "name": "CrazySuperKernel_v7.0",
       "url": "http://qc4.androidfilehost.com/dl/GEQwMU8qkCGvrAgQH0zcIw/1472388435/24591000424959517/CrazySuperKernel-v7.0-anykernel2.zip",
